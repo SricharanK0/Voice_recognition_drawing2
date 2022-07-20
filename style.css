@@ -1,0 +1,20 @@
+body
+{
+	text-align: center;
+	background-size:cover;
+}
+span
+{
+	font-size: 18px;
+	color: red;
+}
+canvas
+{
+	background: darkblue;
+	border-radius: 20px;
+}
+h3{
+	color:aquamarine;
+	font-size:30px;
+	text-shadow: 5px 5px 38px aqua;
+}
